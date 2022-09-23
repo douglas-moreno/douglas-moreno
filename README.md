@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglas-moreno
-- 👀 I’m interested in PHP, Python and now Django
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in PHP and Python
+- 🌱 I’m currently learning Laravel 9
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
