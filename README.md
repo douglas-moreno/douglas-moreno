@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @douglas-moreno<br> I’m interested in PHP and Python<br> I’m currently learning Laravel 9, tailwind, C#<br> I’m looking to collaborate on open source projects
+Hi, I’m @douglas-moreno<br> I’m interested in PHP and Python<br> I’m currently learning Laravel 10, tailwind, C#<br> I’m looking to collaborate on open source projects
 
 
 ## 🌐 Socials:
