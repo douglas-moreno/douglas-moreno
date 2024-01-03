@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @douglas-moreno<br> I’m interested in PHP and Python<br> I’m currently learning Laravel 10, tailwind, C#<br> I’m looking to collaborate on open source projects
+Hi, I’m @douglas-moreno<br> I’m interested in PHP and Python<br> I’m currently learning Laravel 10, tailwind<br> I’m looking to collaborate on open source projects
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ Hi, I’m @douglas-moreno<br> I’m interested in PHP and Python<br> I’m curre
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=douglas-moreno&icon=0&color=0)](https://visitcount.itsvg.in)
